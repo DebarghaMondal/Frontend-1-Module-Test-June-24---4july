@@ -177,7 +177,12 @@ span {
     height: 40vh;
     width: 55vh;
 }
-
+.sndimg:hover{
+    transform: scale(1.01);
+}
+.trdimg:hover{
+    transform: scale(1.01);
+}
 p {
     margin-bottom: 30px;
     font-family: inter;
